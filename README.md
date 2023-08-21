@@ -25,6 +25,8 @@ I'm currently engrossed in a few exciting projects, including:
 - **N-grams Demystified:** Preparing a comprehensive tutorial on n-grams.
 - **Quarto Blog Creation:** Stay tuned for my blog showcasing my projects and insights.
 - **PhD Research:** Continuously delving deeper into the realms of automatic authorship attribution.
+     - **Unmasking:** A method developed by Koppel and Schler - [📄](https://dl.acm.org/doi/10.1145/1015330.1015448)
+     - **The Impostor Method:** A method developed by Koppel and Winter - [📄](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.22954)
 
 ## Currently Reading 📚
 
