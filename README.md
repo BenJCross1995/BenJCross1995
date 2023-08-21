@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+### A brief Introduction
+
+This GitHub belongs to Ben Cross, it is a place where I will share my current projects.
+
+
 <!--
 **BenJCross1995/BenJCross1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
