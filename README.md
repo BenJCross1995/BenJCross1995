@@ -1,42 +1,44 @@
-### Hi there 👋
+# Hi there! 👋
 
+## About Me 📊
 
-### A Brief Introduction
+I'm a passionate Data Specialist from Liverpool, with a deep-rooted fascination for mathematics and statistics. My journey into coding began in 2020 when I embarked on my MSc adventure, and I found myself immersed in the world of R. During this academic pursuit, I delved into various Machine Learning techniques like Logistic Regression, KNN, Random Forest, and deep learning, which completely transformed my perspective on the power of data.
 
-I am a 28-year-old Data Specialist from Liverpool who has always had a passion for mathematics and statistics. I began coding in 2020 when I started my MSc which was about 90% coded in R. During this MSc I was introduced to various Machine Learning techniques such as Logistic Regression, KNN, Random Forest and various deep learning techniques which really opened my eyes to the possibilities with data.
+Since then, I've been on a remarkable coding journey, completing numerous projects in both R and Python. Some of my most cherished projects include:
+- **Setlist Wizard in R:** Enter an artist's name, and it magically reveals the songs they've performed in their recent shows, along with the probability of them playing those songs in the future.
+- **AI-Powered YouTube Video Creation in Python:** I craft entire YouTube videos using cutting-edge AI and Python techniques.
 
-Since then I have completed various projects in R and Python with some of my favourites being; my setlist project in R where I can enter an artist's name and get the songs they've played in their last shows as well as the probability that they will play those songs in the future and my YouTube video creation project in Python where I create entire YouTube videos using AI and Python techniques.
+## Education 🎓
 
-### Education :mortar_board:
+Here's a snapshot of my academic journey:
+- **BSc Mathematics and Statistics:** First Class (Hons)
+- **MSc Data Analytics:** Distinction
+- **PhD in Computer Science:** (Feb 2023 - Ongoing)
+   - Research Focus: "Automatic Authorship Attribution Using Machine Learning"
 
-I currently hold or am in the process of completing the following;
+I'm currently conducting my research at The University of Manchester, exploring the fascinating realm of automatic authorship attribution through machine learning.
 
-  * BSc Mathematics and Statistics - 1st Class (Hons)
-  * MSc Data Analytics - Distinction
-  * PhD Computer Science - Feb 2023 - Current
+## Current Projects 🔭
 
-I am researching my PhD at The University of Manchester and my research revolves around 'Automatic Authorship Attribution Using Machine Learning.' 
+I'm currently engrossed in a few exciting projects, including:
+- **Cluster Analysis of F1 Driver Data:** Unveiling intriguing insights from the world of Formula 1.
+- **N-grams Demystified:** Preparing a comprehensive tutorial on n-grams.
+- **Quarto Blog Creation:** Stay tuned for my blog showcasing my projects and insights.
+- **PhD Research:** Continuously delving deeper into the realms of automatic authorship attribution.
 
-### Currently Working On... 🔭
+## Currently Reading 📚
 
-I'm currently working on;
-  * Cluster analysis of F1 Drivers data,
-  * A background/tutorial on n-grams,
-  * Creating a Quarto blog to display my projects,
-  * Researching for my PhD.
+I enjoy reading a lot, both fiction and non-fiction. The current list of books I am reading or that are on my list to read are:
+- Children of Dune - Frank Herbert
+- Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications - Chip Huyen
+- Fundamentals of Data Engineering: Plan and Build Robust Data Systems -  Joe Reis, Matt Housley
+- Ace the Data Science Interview: 201 Real Interview Questions Asked By FAANG, Tech Startups, & Wall Street - Nick Singh, Kevin Huo
+- ggplot2: Elegant Graphics for Data Analysis (Use R!) - Hadley Wickham
 
+## My Links 🔗
 
-<!--
-**BenJCross1995/BenJCross1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some of my links:
+- **LinkedIn** - [LinkedIn Profile](https://www.linkedin.com/in/benjcross/)
+- **Quarto** - [Quarto Projects](https://bencross.quarto.pub/projects/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect with me and explore the incredible world of data together! 🚀
