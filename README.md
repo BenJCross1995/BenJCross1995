@@ -21,6 +21,7 @@ I'm currently conducting my research at The University of Manchester, exploring 
 ## Current Projects 🔭
 
 I'm currently engrossed in a few exciting projects, including:
+- **A package to read PAN-AV data into R and convert it into a corpus object.
 - **Cluster Analysis of F1 Driver Data:** Unveiling intriguing insights from the world of Formula 1.
 - **N-grams Demystified:** Preparing a comprehensive tutorial on n-grams.
 - **Quarto Blog Creation:** Stay tuned for my blog showcasing my projects and insights.
